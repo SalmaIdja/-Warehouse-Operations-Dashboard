@@ -33,4 +33,4 @@ This dashboard tracks key performance metrics across multiple warehouse location
 - ##  Note
 -  This dashboard is a **sanitized recreation** of a real-world operational layout. All data has been anonymized and rebuilt using dummy values for portfolio purposes.
 
--  ![Warehouse Operations Dashboard](images/dashboard.png)
+- ![Warehouse Operations Dashboard](images/warehouse_dashboard.png)
